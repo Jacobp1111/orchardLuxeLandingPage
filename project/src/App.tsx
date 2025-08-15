@@ -99,7 +99,7 @@ function App() {
             <div className="relative group">
               <div className="aspect-square bg-gradient-to-br from-[#fff2ba]/60 to-[#fff2ba]/80 rounded-2xl shadow-xl overflow-hidden">
                 <img 
-                  src="/images/hero-image-1.jpg" 
+                  src="/hero-image-1.jpg" 
                   alt="Premium dehydrated citrus garnishes"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   onError={(e) => {
@@ -118,7 +118,7 @@ function App() {
             <div className="relative group">
               <div className="aspect-square bg-gradient-to-br from-[#fff2ba]/60 to-[#fff2ba]/80 rounded-2xl shadow-xl overflow-hidden">
                 <img 
-                  src="/images/hero-image-2.jpg" 
+                  src="/hero-image-2.jpg" 
                   alt="Cocktail with dehydrated fruit garnish"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   onError={(e) => {
@@ -137,7 +137,7 @@ function App() {
             <div className="relative group">
               <div className="aspect-square bg-gradient-to-br from-[#fff2ba]/60 to-[#fff2ba]/80 rounded-2xl shadow-xl overflow-hidden">
                 <img 
-                  src="/images/hero-image-3.jpg" 
+                  src="/hero-image-3.jpg" 
                   alt="Variety of dehydrated fruit garnishes"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   onError={(e) => {
