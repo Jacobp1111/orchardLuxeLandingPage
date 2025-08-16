@@ -90,10 +90,10 @@ function App() {
           </h1>
 
           {/* Subheader */}
-          <p className="text-2xl md:text-3xl text-gray-700 mb-12 max-w-4xl mx-auto leading-relaxed font-light">
+          <p className="text-xl md:text-2xl text-gray-700 mb-12 max-w-4xl mx-auto leading-relaxed font-light">
             Premium, Vancouver-made dehydrated fruit for garnishes & more
           </p>
-          
+
           {/* Hero Images Grid */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16 max-w-5xl mx-auto">
             <div className="relative group">
