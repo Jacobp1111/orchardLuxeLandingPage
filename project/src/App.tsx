@@ -340,8 +340,9 @@ function App() {
             <img 
               src="/logo-footer.png" 
               alt="Orchard Luxe Logo" 
-              className=className="h-12 sm:h-14 md:h-14 lg:h-14 mx-auto"
+              className="h-12 mr-2"
             />
+            <span className="text-2xl font-bold lowercase">orchard luxe</span>
           </div>
           <p className="text-gray-400 mb-4">
             Premium Vancouver-made dehydrated fruit for the discerning palate
