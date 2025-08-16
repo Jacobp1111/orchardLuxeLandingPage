@@ -340,7 +340,7 @@ function App() {
             <img 
               src="/logo-footer.png" 
               alt="Orchard Luxe Logo" 
-              className="h-12 mr-3"
+              className="h-16 md:h-20 lg:h-24 mx-auto"
             />
           </div>
           <p className="text-gray-400 mb-4">
