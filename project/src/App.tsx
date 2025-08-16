@@ -84,11 +84,11 @@ function App() {
           </div>
           
           {/* Main Heading */}
-          <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6 leading-tight">
+          <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6 leading-tight font-fancy">
             <span className="block text-gray-800">Elevate</span>
             <span className="block">Your Cocktail</span>
           </h1>
-          
+
           {/* Subheader */}
           <p className="text-2xl md:text-3xl text-gray-700 mb-12 max-w-4xl mx-auto leading-relaxed font-light">
             Premium, Vancouver-made dehydrated fruit for garnishes & more
