@@ -75,7 +75,7 @@ function App() {
               <img 
                 src="/logo-header.png" 
                 alt="Orchard Luxe Logo" 
-                className="h-24 md:h-32 mx-auto mix-blend-multiply"
+                className="h-28 md:h-36 mx-auto mix-blend-multiply"
                 style={{
                   filter: 'brightness(1.1) contrast(1.05)'
                 }}
