@@ -84,7 +84,7 @@ function App() {
           </div>
           
           {/* Main Heading */}
-          <h1 className="text-6xl md:text-8xl font-bold text-gray-900 mb-6 leading-tight">
+          <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6 leading-tight">
             <span className="block text-gray-800">Elevate</span>
             <span className="block">Your Cocktail</span>
           </h1>
