@@ -342,7 +342,6 @@ function App() {
               alt="Orchard Luxe Logo" 
               className="h-12 mr-3"
             />
-            <span className="text-2xl font-bold">orchard luxe</span>
           </div>
           <p className="text-gray-400 mb-4">
             Premium Vancouver-made dehydrated fruit for the discerning palate
